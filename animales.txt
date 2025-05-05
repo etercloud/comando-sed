@@ -2,5 +2,5 @@
 Granja: zorro naranja, perro perezoso.
 Ciudad: perro, zorro, zorro grande.
 Bosque: zorro gris, zorro naranja, zorro
-Error: ZoRRo, GaTO, HaMsTeR
+Error: ZoRRo, GaTo, HaMsTeR
 

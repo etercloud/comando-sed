@@ -1,0 +1,10 @@
+/etc/passwd
+/etc/shadow
+/etc/group
+/etc/fstab
+/etc/hosts
+/etc/resolv.conf
+/etc/nsswitch.conf
+/etc/hostname
+/etc/ssh/sshd_config
+/etc/issue
